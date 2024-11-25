@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Achintha Wijesinghe"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Achintha Wijesinghe"
 description              : &description "CS Enthusiast"
 url                      : https://achintha-wijesinghe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "achinthaw/achintha-wijesinghe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Achintha Wijesinghe"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
